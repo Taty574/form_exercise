@@ -1,14 +1,14 @@
 /* style.css */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #aef8ec;
     display: flex;
     justify-content: center;
     padding-top: 50px;
 }
 
 .form-container {
-    background-color: white;
+    background-color: #98ecd4;
     width: 450px;
     padding: 40px;
     border: 2px solid #add8e6;
